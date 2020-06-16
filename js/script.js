@@ -113,7 +113,15 @@ function iniciarJogo() {
     };
 
     snake.unshift(newHead);
+}
 
+/**
+ * Responsável por recarregar página.
+ * @function
+ * @name recarregar
+ */
+function recarregar() {
+    window.location.reload();
 }
 
 let jogo = setInterval(iniciarJogo, 100);
