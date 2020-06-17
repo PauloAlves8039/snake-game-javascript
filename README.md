@@ -15,5 +15,8 @@ Aplicação web para representar o jogo clássico Snake Game, exercício prátic
 ## :video_game: Jogar
 - [Snake Game](https://pauloalves8039.github.io/snake-game-javascript/).
 
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/snake-game-javascript/blob/master/LICENSE.md)
+
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
